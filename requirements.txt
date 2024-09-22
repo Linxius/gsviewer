@@ -1,0 +1,9 @@
+numpy
+PyGLM
+imgui-bundle
+# glfw
+# imgui
+# dearpygui
+# PyOpenGL
+plyfile
+# imageio
